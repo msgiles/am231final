@@ -1,0 +1,79 @@
+,short_name,long_name,Sub-Borough Area,2000,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,puma,CD_Name
+0,gross_rent_adj,"Median rent, all ($2016)",Sunnyside/Woodside,1130.0,1280.0,1270.0,1340.0,1280.0,1360.0,1410.0,1430.0,1460.0,1460.0,1570.0,1600.0,1570.0,,
+1,gross_rent_adj,"Median rent, all ($2016)",Greenwich Village/Financial District,1680.0,2010.0,2100.0,2160.0,2180.0,990.0,1530.0,1280.0,1360.0,1520.0,1300.0,2680.0,2530.0,3810.0,Greenwich Village/Financial District
+2,gross_rent_adj,"Median rent, all ($2016)",Highbridge/South Concourse,870.0,930.0,950.0,990.0,1000.0,1000.0,1040.0,1040.0,1030.0,1110.0,1060.0,1100.0,1110.0,,
+3,gross_rent_adj,"Median rent, all ($2016)",North Shore,1010.0,1150.0,1130.0,1210.0,1200.0,1130.0,1240.0,1160.0,1120.0,1100.0,1130.0,1180.0,1220.0,,
+4,gross_rent_adj,"Median rent, all ($2016)",Mott Haven/Hunts Point,550.0,630.0,730.0,720.0,740.0,780.0,770.0,770.0,780.0,850.0,830.0,860.0,950.0,3710.0,Mott Haven/Hunts Point
+5,gross_rent_adj,"Median rent, all ($2016)",Soundview/Parkchester,880.0,1000.0,1020.0,990.0,1010.0,1040.0,1070.0,1130.0,1060.0,1070.0,1110.0,1130.0,1150.0,,
+6,gross_rent_adj,"Median rent, all ($2016)",Flushing/Whitestone,1200.0,1360.0,1380.0,1370.0,1360.0,1400.0,1450.0,1420.0,1390.0,1390.0,1390.0,1440.0,1510.0,4103.0,Flushing/Whitestone
+7,gross_rent_adj,"Median rent, all ($2016)",University Heights/Fordham,890.0,950.0,980.0,990.0,1020.0,1030.0,1090.0,1030.0,1070.0,1040.0,1080.0,1110.0,1120.0,,
+8,gross_rent_adj,"Median rent, all ($2016)",East New York/Starrett City,890.0,930.0,1030.0,1050.0,1090.0,1090.0,1120.0,1110.0,1050.0,1140.0,1070.0,1110.0,1130.0,4008.0,East New York/Starrett City
+9,gross_rent_adj,"Median rent, all ($2016)",South Ozone Park/Howard Beach,1130.0,1410.0,1390.0,1350.0,1380.0,1340.0,1410.0,1370.0,1360.0,1350.0,1410.0,1430.0,1440.0,4113.0,South Ozone Park/Howard Beach
+10,gross_rent_adj,"Median rent, all ($2016)",Elmhurst/Corona,1100.0,1280.0,1290.0,1300.0,1290.0,1370.0,1360.0,1370.0,1370.0,1390.0,1410.0,1450.0,1390.0,4107.0,Elmhurst/Corona
+11,gross_rent_adj,"Median rent, all ($2016)",Rego Park/Forest Hills,1220.0,1300.0,1330.0,1400.0,1390.0,1400.0,1440.0,1480.0,1430.0,1490.0,1500.0,1560.0,1570.0,4108.0,Rego Park/Forest Hills
+12,gross_rent_adj,"Median rent, all ($2016)",Sunset Park,1020.0,1130.0,1160.0,1140.0,1170.0,1210.0,1260.0,1230.0,1290.0,1290.0,1350.0,1300.0,1400.0,4012.0,Sunset Park
+13,gross_rent_adj,"Median rent, all ($2016)",Jackson Heights,1140.0,1320.0,1310.0,1350.0,1280.0,1330.0,1320.0,1340.0,1370.0,1390.0,1400.0,1420.0,1470.0,4102.0,Jackson Heights
+14,gross_rent_adj,"Median rent, all ($2016)",Mid-Island,1110.0,1240.0,1240.0,1270.0,1170.0,1270.0,1160.0,1180.0,1120.0,1300.0,1160.0,1320.0,1310.0,,
+15,gross_rent_adj,"Median rent, all ($2016)",South Shore,1130.0,1290.0,1240.0,1290.0,1290.0,1350.0,1350.0,1230.0,1280.0,1270.0,1250.0,1190.0,1240.0,,
+16,gross_rent_adj,"Median rent, all ($2016)",Riverdale/Kingsbridge,1060.0,1090.0,1120.0,1140.0,1170.0,1200.0,1230.0,1240.0,1240.0,1290.0,1200.0,1310.0,1310.0,,
+17,gross_rent_adj,"Median rent, all ($2016)",Flatbush,1000.0,1140.0,1110.0,1130.0,1140.0,1140.0,1190.0,1210.0,1210.0,1220.0,1290.0,1330.0,1320.0,,
+18,gross_rent_adj,"Median rent, all ($2016)",Pelham Parkway,1000.0,1080.0,1040.0,1130.0,1080.0,1130.0,1140.0,1180.0,1200.0,1160.0,1240.0,1260.0,1270.0,,
+19,gross_rent_adj,"Median rent, all ($2016)",Flatlands/Canarsie,1130.0,1240.0,1180.0,1240.0,1220.0,1250.0,1240.0,1250.0,1260.0,1320.0,1280.0,1330.0,1360.0,4009.0,Flatlands/Canarsie
+20,gross_rent_adj,"Median rent, all ($2016)",Jamaica,1010.0,1140.0,1110.0,1110.0,1120.0,1180.0,1210.0,1190.0,1200.0,1220.0,1220.0,1230.0,1250.0,,
+21,gross_rent_adj,"Median rent, all ($2016)",Sheepshead Bay/Gravesend,1020.0,1140.0,1060.0,1100.0,1070.0,1140.0,1140.0,1150.0,1210.0,1200.0,1270.0,1310.0,1300.0,,
+22,gross_rent_adj,"Median rent, all ($2016)",Williamsburg/Greenpoint,870.0,1020.0,980.0,1130.0,1100.0,1150.0,1160.0,1300.0,1350.0,1320.0,1610.0,1620.0,1740.0,,
+23,gross_rent_adj,"Median rent, all ($2016)",Upper West Side,1440.0,1480.0,1600.0,1730.0,1670.0,1900.0,1670.0,1930.0,1740.0,1820.0,1790.0,1820.0,2160.0,3806.0,Upper West Side
+24,gross_rent_adj,"Median rent, all ($2016)",Stuyvesant Town/Turtle Bay,1730.0,1860.0,1870.0,2040.0,2020.0,2120.0,2080.0,1540.0,1300.0,1230.0,1520.0,2470.0,2530.0,3808.0,Stuyvesant Town/Turtle Bay
+25,gross_rent_adj,"Median rent, all ($2016)",Lower East Side/Chinatown,780.0,820.0,920.0,860.0,840.0,960.0,1010.0,930.0,1100.0,980.0,1030.0,1090.0,1050.0,3809.0,Lower East Side/Chinatown
+26,gross_rent_adj,"Median rent, all ($2016)",Bedford Stuyvesant,770.0,860.0,860.0,930.0,1010.0,1020.0,1040.0,990.0,1090.0,1080.0,1080.0,1240.0,1290.0,4003.0,Bedford Stuyvesant
+27,gross_rent_adj,"Median rent, all ($2016)",Rockaways,830.0,930.0,970.0,910.0,1020.0,1020.0,1000.0,1040.0,1010.0,1090.0,1030.0,1130.0,1040.0,,
+28,gross_rent_adj,"Median rent, all ($2016)",Throgs Neck/Co-op City,950.0,990.0,1050.0,1020.0,1140.0,1070.0,1130.0,1150.0,1020.0,1110.0,1130.0,1070.0,1200.0,3703.0,Throgs Neck/Co-op City
+29,gross_rent_adj,"Median rent, all ($2016)",Bayside/Little Neck,1300.0,1460.0,1430.0,1420.0,1540.0,1570.0,1540.0,1660.0,1620.0,1590.0,1630.0,1680.0,1630.0,4104.0,Bayside/Little Neck
+30,gross_rent_adj,"Median rent, all ($2016)",East Flatbush,990.0,1090.0,1100.0,1100.0,1150.0,1140.0,1180.0,1140.0,1160.0,1220.0,1200.0,1230.0,1310.0,4010.0,East Flatbush
+31,gross_rent_adj,"Median rent, all ($2016)",Hillcrest/Fresh Meadows,1100.0,1200.0,1260.0,1220.0,1280.0,1350.0,1290.0,1310.0,1350.0,1340.0,1370.0,1470.0,1520.0,4106.0,Hillcrest/Fresh Meadows
+32,gross_rent_adj,"Median rent, all ($2016)",South Crown Heights,960.0,1070.0,1050.0,1070.0,1070.0,1080.0,1130.0,1130.0,1180.0,1170.0,1250.0,1270.0,1300.0,,
+33,gross_rent_adj,"Median rent, all ($2016)",Astoria,1080.0,1220.0,1220.0,1230.0,1270.0,1330.0,1400.0,1370.0,1420.0,1410.0,1500.0,1540.0,1530.0,4101.0,Astoria
+34,gross_rent_adj,"Median rent, all ($2016)",Coney Island,820.0,840.0,830.0,870.0,850.0,920.0,950.0,940.0,910.0,940.0,870.0,1040.0,980.0,4018.0,Coney Island
+35,gross_rent_adj,"Median rent, all ($2016)",Bensonhurst,1030.0,1130.0,1160.0,1130.0,1100.0,1060.0,1110.0,1180.0,1210.0,1210.0,1240.0,1280.0,1330.0,4017.0,Bensonhurst
+36,gross_rent_adj,"Median rent, all ($2016)",Morningside Heights/Hamilton Heights,880.0,930.0,950.0,1080.0,1130.0,1160.0,1090.0,1150.0,1170.0,1220.0,1230.0,1330.0,1240.0,,
+37,gross_rent_adj,"Median rent, all ($2016)",North Crown Heights/Prospect Heights,870.0,1050.0,1030.0,1010.0,1070.0,1060.0,1160.0,1120.0,1120.0,1110.0,1180.0,1230.0,1360.0,,
+38,gross_rent_adj,"Median rent, all ($2016)",Central Harlem,710.0,790.0,770.0,830.0,820.0,820.0,870.0,910.0,910.0,920.0,980.0,1050.0,990.0,3803.0,Central Harlem
+39,gross_rent_adj,"Median rent, all ($2016)",Chelsea/Clinton/Midtown,1430.0,1770.0,1710.0,1650.0,1680.0,1870.0,1770.0,1930.0,1250.0,1490.0,1210.0,2210.0,2230.0,3807.0,Chelsea/Clinton/Midtown
+40,gross_rent_adj,"Median rent, all ($2016)",Borough Park,1050.0,1170.0,1160.0,1140.0,1230.0,1220.0,1310.0,1260.0,1280.0,1330.0,1400.0,1370.0,1440.0,4014.0,Borough Park
+41,gross_rent_adj,"Median rent, all ($2016)",Williamsbridge/Baychester,1000.0,1070.0,1100.0,1110.0,1120.0,1160.0,1150.0,1190.0,1200.0,1240.0,1220.0,1210.0,1250.0,3702.0,Williamsbridge/Baychester
+42,gross_rent_adj,"Median rent, all ($2016)",Park Slope/Carroll Gardens,1270.0,1630.0,1600.0,1460.0,1680.0,1790.0,1780.0,1810.0,1770.0,1900.0,930.0,2050.0,2030.0,4005.0,Park Slope/Carroll Gardens
+43,gross_rent_adj,"Median rent, all ($2016)",Bay Ridge,1100.0,1160.0,1200.0,1210.0,1230.0,1290.0,1290.0,1310.0,1300.0,1320.0,1350.0,1390.0,1440.0,,
+44,gross_rent_adj,"Median rent, all ($2016)",Bushwick,880.0,960.0,980.0,1060.0,1100.0,1160.0,1210.0,1230.0,1220.0,1250.0,1280.0,1320.0,1410.0,4002.0,Bushwick
+45,gross_rent_adj,"Median rent, all ($2016)",Ozone Park/Woodhaven,1150.0,1230.0,1320.0,1290.0,1300.0,1330.0,1330.0,1340.0,1390.0,1390.0,1420.0,1450.0,1470.0,,
+46,gross_rent_adj,"Median rent, all ($2016)",Upper East Side,1780.0,1890.0,1890.0,1990.0,2000.0,1970.0,1940.0,1960.0,2030.0,2010.0,1340.0,2110.0,2250.0,3805.0,Upper East Side
+47,gross_rent_adj,"Median rent, all ($2016)",Kingsbridge Heights/Moshulu,980.0,1060.0,1070.0,1050.0,1080.0,1080.0,1150.0,1150.0,1160.0,1150.0,1180.0,1200.0,1190.0,,
+48,gross_rent_adj,"Median rent, all ($2016)",East Harlem,710.0,770.0,670.0,700.0,710.0,790.0,880.0,850.0,970.0,890.0,870.0,790.0,880.0,3804.0,East Harlem
+49,gross_rent_adj,"Median rent, all ($2016)",Brooklyn Heights/Fort Greene,980.0,1080.0,1120.0,1260.0,1200.0,1320.0,1510.0,1460.0,1600.0,1530.0,1640.0,1760.0,1790.0,,
+50,gross_rent_adj,"Median rent, all ($2016)",Brownsville/Ocean Hill,720.0,770.0,740.0,760.0,820.0,880.0,920.0,890.0,970.0,890.0,960.0,870.0,970.0,,
+51,gross_rent_adj,"Median rent, all ($2016)",Middle Village/Ridgewood,1070.0,1260.0,1250.0,1280.0,1260.0,1310.0,1360.0,1300.0,1290.0,1290.0,1340.0,1440.0,1490.0,,
+52,gross_rent_adj,"Median rent, all ($2016)",Washington Heights/Inwood,920.0,1010.0,1000.0,1030.0,1050.0,1090.0,1140.0,1160.0,1110.0,1150.0,1240.0,1260.0,1300.0,3801.0,Washington Heights/Inwood
+53,gross_rent_adj,"Median rent, all ($2016)",Morrisania/Belmont,690.0,810.0,850.0,870.0,870.0,910.0,900.0,930.0,900.0,940.0,910.0,960.0,970.0,3705.0,Morrisania/Belmont
+54,gross_rent_adj,"Median rent, all ($2016)",Queens Village,1210.0,1430.0,1450.0,1450.0,1400.0,1460.0,1490.0,1550.0,1440.0,1440.0,1520.0,1530.0,1510.0,4105.0,Queens Village
+55,,,,,,,,,,,,,,,,,3701.0,Riverdale/Fieldston
+56,,,,,,,,,,,,,,,,,3704.0,Morris Park/Bronxdale
+57,,,,,,,,,,,,,,,,,3706.0,Kingsbridge Heights/Bedford
+58,,,,,,,,,,,,,,,,,3707.0,Fordham/University Heights
+59,,,,,,,,,,,,,,,,,3708.0,Highbridge/Concourse
+60,,,,,,,,,,,,,,,,,3709.0,Parkchester/Soundview
+61,,,,,,,,,,,,,,,,,3802.0,Morningside Heights/Hamilton
+62,,,,,,,,,,,,,,,,,3901.0,Tottenville/Great Kills
+63,,,,,,,,,,,,,,,,,3902.0,South Beach/Willowbrook
+64,,,,,,,,,,,,,,,,,3903.0,St. George/Stapleton
+65,,,,,,,,,,,,,,,,,4001.0,Greenpoint/Williamsburg
+66,,,,,,,,,,,,,,,,,4004.0,Fort Greene/Brooklyn Heights
+67,,,,,,,,,,,,,,,,,4006.0,Crown Heights/Prospect Heights
+68,,,,,,,,,,,,,,,,,4007.0,Brownsville
+69,,,,,,,,,,,,,,,,,4011.0,South Crown Heights/Lefferts Gardens
+70,,,,,,,,,,,,,,,,,4013.0,Bay Ridge/Dyker Heights
+71,,,,,,,,,,,,,,,,,4015.0,Flatbush/Midwood
+72,,,,,,,,,,,,,,,,,4016.0,Sheepshead Bay
+73,,,,,,,,,,,,,,,,,4109.0,Woodside/Sunnyside
+74,,,,,,,,,,,,,,,,,4110.0,Ridgewood/Maspeth
+75,,,,,,,,,,,,,,,,,4111.0,Kew Gardens/Woodhaven
+76,,,,,,,,,,,,,,,,,4112.0,Jamaica/Hollis
+77,,,,,,,,,,,,,,,,,4114.0,Rockaway/Broad Channel
